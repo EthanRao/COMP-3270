@@ -1,2 +1,1 @@
-# COMP-3270
-COMP 3270 (Java)
+# COMP-3270 Introduction to Algorithms
